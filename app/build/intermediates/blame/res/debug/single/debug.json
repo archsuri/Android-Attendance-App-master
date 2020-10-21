@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_student_list.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\view_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_roundedbutton.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_addfaculty.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\addfaculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img.jpg.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_addstudent.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\addstudent.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_student_attendance.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\add_student_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_main.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\test_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_attendance_list.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\view_attendance_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewstudent.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\viewstudent.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_main.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_faculty_list.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\view_faculty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_roundedtextview.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\roundedtextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_attandance.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\add_attandance.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout___listview_main.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\__listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_attendance_list_per_student.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clg.jpg.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-hdpi\\clg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_layout.xml.flat",
+        "source": "C:\\Users\\archi\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\layout\\test_layout.xml"
+    }
+]

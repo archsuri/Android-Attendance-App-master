@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidattendancesystem"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+         android:name="com.android.attendance.context.ApplicationContext"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Android Attendance System"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.android.attendance.activity.MainActivity"
+            android:label="Android Attendance System" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.LoginActivity"
+            android:label="Android Attendance System">
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.MenuActivity"
+            android:label="@string/app_name" >
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.AddFacultyActivity"
+            android:label="Android Attendance System" >
+        </activity>
+        <activity
+            android:name="com.android.attendance.activity.AddStudentActivity"
+            android:label="Android Attendance System" >
+        </activity>
+        <activity
+            android:name="com.android.attendance.activity.ViewFacultyActivity"
+            android:label="Android Attendance System" >
+        </activity>
+        <activity
+            android:name="com.android.attendance.activity.ViewStudentActivity"
+            android:label="Android Attendance System" >
+        </activity>
+        <activity
+            android:name="com.android.attendance.activity.TestActivity"
+            android:label="Android Attendance System" >
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.ViewStudentByBranchYear"
+            android:label="Android Attendance System" >
+        </activity>
+          <activity
+            android:name="com.android.attendance.activity.AddAttandanceSessionActivity"
+            android:label="Android Attendance System" >
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.AddAttendanceActivity"
+            android:label="Android Attendance System" >
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.ViewAttendanceByFacultyActivity"
+            android:label="Android Attendance System" >
+        </activity>
+         <activity
+            android:name="com.android.attendance.activity.ViewAttendancePerStudentActivity"
+            android:label="Android Attendance System" >
+        </activity>
+        
+    </application>
+
+</manifest>
